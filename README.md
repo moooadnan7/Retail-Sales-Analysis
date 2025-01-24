@@ -199,14 +199,3 @@ GROUP BY shift;
 2. Set up the database by executing the SQL scripts provided.
 3. Run the queries to explore the dataset and derive insights.
 4. Modify queries to analyze additional patterns or answer new questions.
-
----
-
-## Author
-**Zero Analyst**
-- [YouTube](#)
-- [Instagram](#)
-- [LinkedIn](#)
-- [Discord](#)
-
-Feel free to reach out with feedback or collaboration ideas!
